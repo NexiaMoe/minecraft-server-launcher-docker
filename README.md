@@ -2,7 +2,7 @@
 Minecraft launcher on Docker for my Lab Exam
 
 
-Usage :
+Usage : <br>
 <b>mc --install</b><br>
 it will be install minecraft vanilla server on /srv/minecraft (if /srv/minecraft missing or not found)
 <br><br>
